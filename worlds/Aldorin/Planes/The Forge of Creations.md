@@ -1,0 +1,1 @@
+The Forge of Creations, also known as the Positive Energy Plane, is the part of the Inner Planes where souls are made.
