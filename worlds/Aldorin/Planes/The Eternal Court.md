@@ -19,4 +19,8 @@ The Court of Primordials is the court that non-souls make use of. This can eithe
 ## The Eternal City
 The Eternal City resides around the courts and courtyard, and is where the denizens of this plane reside should they be judged to travel here. It is a clean, orderly and well designed city.
 
-# The Four 
+# The Four Cases of The Judge
+There have been a total of four cases where cases brought to the Eight Level of the Court of Arbitrations have not been able to be resolved there, and were brought before The Judge themselves. Each of these cases have resulted in new clauses to the laws of the The Eternal Court.
+
+## The Reincarnation Clause
+Though extremely few cases would ever reach the Eight Level of Arbitrations, there was a case by a soul so charismatic, so quick witted and full of resolve that was able to successfully appeal each of the levels, having started all the way back in The Court of Evaluations, and having reached the eight level wi
