@@ -40,4 +40,6 @@ Surprisingly to some, Abaddon did not challenge this claim. Though it is uncerta
 ## The Prism Principle
 The Prism Principle is the last of the clauses that have been added to the laws of the court. The very same soul that had caused The Renewal Mandate would be reincarnated so many times that eventually they would once again be brought in front of The Judge.
 The Judge could not agree to letting this cycle of reincarnation go on forever, as that would go against the very principle of the Cycle of Souls, and would in a manner of sense make the soul an immortal, something forbidden and heretical.
-The result was not seen as favourable to anyone involved, but in order to bring an end to the reincarnation, the soul would be shattered by The Judge's Sword into an equal amount of pieces for each of the planes that laid claim to it. 
+The result was not seen as favourable to anyone involved, but in order to bring an end to the reincarnation, the soul would be shattered by The Judge's Sword into an equal amount of pieces for each of the planes that laid claim to it. A shattered soul is of little use to most, and the only solace was that no competing plane got a soul.
+
+Since then it has been decreed that any soul that reaches its tenth judgement without a resolution shall be shattered. Extremely few cases of that has happened since, as most souls would prefer to avoid this outcome. 
