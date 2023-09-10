@@ -14,7 +14,7 @@ The first court that most souls go to is The Court of Evaluations. This is the c
 The Court of Arbitrations is the court where souls that are disputed over go to. This either happens when the judge is unable to make a decision in The Court of Evaluations, or if a soul already has multiple claims to it before arriving in The Eternal Court. The Court of Arbitrations is split into several levels, eight in total, where if a judge is either unable to make a decision, or a judge agrees to the appeals of either a soul or the petitioners, then it will be moved to a higher level. There is technically a level after the eighth, where if the judge agrees with an appeal, the case is sent to The Judge themselves, but this has only happened four times in total, with each of these cases adding new clauses meant to prevent the same situation from happening again.
 
 ## The Court of Primordials
-The Court of Primordials is the court that non-souls make use of. This can either be cases related to the soul judging that takes place in The Eternal Court itself, or for cases between planes themselves that are solved in a civil way. It is the least active of the courts, but still sees activity and has the most variety of denizens in it.
+The Court of Primordials is the court that non-souls makeAbbadon use of. This can either be cases related to the soul judging that takes place in The Eternal Court itself, or for cases between planes themselves that are solved in a civil way. It is the least active of the courts, but still sees activity and has the most variety of denizens in it.
 
 ## The Eternal City
 The Eternal City resides around the courts and courtyard, and is where the denizens of this plane reside should they be judged to travel here. It is a clean, orderly and well designed city.
@@ -28,6 +28,10 @@ Though extremely few cases would ever reach the Eight Level of Arbitrations, the
 ## The Singularity Edict
 The Singularity Edict was added after an extremely crafty soul had manage to trick denizens of multiple planes into allowing them to sell their soul to their plane. The problem was that there were loopholes in the contracts, that when brought in front of the Court of Arbitrations, none could contest the claims each plane had. But since a soul could not be claimed by multiple planes, when this case was brought in front of The Judge, they decreed that contracts that could allow this would be forbidden by planar law, but fail safes were added so that if it should still somehow occur, the contract entered first would be the valid one, and should there still be disputes about that it will be settled with a single coin flip. Though to this day, there is no known case that has been settled with said coin flip.
 
-## The Abaddon Clause
+## The Redirection Enactment
+The Redirection Enactment was added from the singular case that was not headed by a soul to reach The Judge, but was instead lead by an unusual case of lawyers from each of the different planes, primarily from [[Heaven]] and [[Hell]].
 
+Their case was focused on souls being sent to [[Abaddon]] would destroy said soul, removing them from the Cycle of Souls, aside from the rare cases where a soul is able to turn into a Daemon, something that still contributes to the destruction of souls in the end.
+
+Though The Judge could not agree with removing Abaddon from possible destinations, should a soul be d
 ## The Shattering Clause
