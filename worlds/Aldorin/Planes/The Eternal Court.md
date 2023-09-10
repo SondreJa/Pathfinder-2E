@@ -1,0 +1,1 @@
+The Eternal Court is the plane where souls go to be shepherded, evaluated and judged in order to be sent to the correct plain where they belong. It was founded by The Judge, the final arbiter of a soul's destiny, and is still watched over by them.
