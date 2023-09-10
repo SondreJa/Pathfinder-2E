@@ -26,7 +26,7 @@ There have been a total of four cases where cases brought to the Eight Level of 
 Though extremely few cases would ever reach the Eight Level of Arbitrations, there was a case by a soul so charismatic, so quick witted and full of resolve that was able to successfully appeal each of the levels, having started all the way back in The Court of Evaluations, and having reached the eight level with multiple petitioners from the planes. When the soul was brought in front of The Judge, they successfully argued their case that they had reached this level with multiple petitioners still vying for their soul, it must be too soon for the soul to be judged. The Judge agreed with this soul, and resolved to send the soul back to [[The Forge of Creations]] to be reborn anew, their soul still touched by their experiences, but with their memories and skills wiped. The Reincarnation Clause was added, and allowed the judges to reincarnate a soul if they found it clear that no decision could be made at this point.
 
 ## The Anti-Loophole Clause
-
+The 
 
 ## The Abaddon Clause
 
