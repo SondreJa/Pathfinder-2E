@@ -11,4 +11,12 @@ The first area most new arrivals visit is the Courtyard. The Courtyard is where 
 The first court that most souls go to is The Court of Evaluations. This is the court where souls that are either unclaimed or claimed without dispute go. For souls that are claimed without dispute, it is mostly a formality of getting the approval of a judge before they soul is delivered to their new plane. For souls that are unclaimed there will typically be several representatives from various planes that petition to both the judge and the soul. If they are able to convince the soul, and the judge does not contest it, the soul will go to that plane. If the soul is unable or uncaring enough to decide, the judge will make a decision. In many cases, there will be disputes over the soul that are unable to be solved by the judges here, typically just when there are two planes left, and in these cases the soul will be moved over to The Court of Arbitrations
 
 ## The Court of Arbitrations
-The Court of Arbitrations is the court where souls that are disputed over go to. This either happens when the judge is unable to make a decision in The Court of Evaluations, or if a soul already has multiple claims to it before arriving in The Eternal Court. The Court of Arbitrations is split into 
+The Court of Arbitrations is the court where souls that are disputed over go to. This either happens when the judge is unable to make a decision in The Court of Evaluations, or if a soul already has multiple claims to it before arriving in The Eternal Court. The Court of Arbitrations is split into several levels, eight in total, where if a judge is either unable to make a decision, or a judge agrees to the appeals of either a soul or the petitioners, then it will be moved to a higher level. There is technically a level after the eighth, where if the judge agrees with an appeal, the case is sent to The Judge themselves, but this has only happened four times in total, with each of these cases adding new clauses meant to prevent the same situation from happening again.
+
+## The Court of Primordials
+The Court of Primordials is the court that non-souls make use of. This can either be cases related to the soul judging that takes place in The Eternal Court itself, or for cases between planes themselves that are solved in a civil way. It is the least active of the courts, but still sees activity and has the most variety of denizens in it.
+
+## The Eternal City
+The Eternal City resides around the courts and courtyard, and is where the denizens of this plane reside should they be judged to travel here. It is a clean, orderly and well designed city.
+
+# The Four 
