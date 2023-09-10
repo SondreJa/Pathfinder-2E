@@ -1,1 +1,1 @@
-The Judge is the ruler of The Eternal Court.
+The Judge is the ruler of [[The Eternal Court]].
