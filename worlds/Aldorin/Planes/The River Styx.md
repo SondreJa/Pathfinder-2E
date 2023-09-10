@@ -1,1 +1,1 @@
-The River Styx is a massive network of souls that collect dead mortal souls from all the different planes and bring them to The Eternal Court to be judged, before they are delivered back to their new destined plane.
+The River Styx is a massive network of souls that collect dead mortal souls from all the different planes and bring them to [[The Eternal Court]] to be judged, before they are delivered back to their new destined plane.
