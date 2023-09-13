@@ -7,3 +7,4 @@ The Watcher is typically depicted as a giant hand with an eye in the centre, whi
 Despite being an ancient deity, they aren't the most popular of gods for most commoners. However those who do follow them are often information brokers, journalists, spies or others who are in the information business one way or the other.
 
 ## Edicts and Anathema
+The most important edict for followers is to gather information and observe happenings, but to never interfere on them. Should a 
