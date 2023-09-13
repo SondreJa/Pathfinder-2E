@@ -14,4 +14,8 @@ Anathema to The Watcher would be to falsify information, or to change outcomes f
 ## The Panopticon
 The Panopticon is a group of devout followers who are dedicated to gathering, cataloguing and distributing information. It is common for the larger cities of the world to have a Panopticon Library, a combination of library and temple to The Watcher. They have librarians with vast knowledge over what information they have stored, what is considered dangerous and classified and if they don't have something, they might often know if another library has access to it. However their members aren't limited to just librarians and scribes, but spies, journalists and observers are included in their ranks too.
 
-Members of the Panopticon are typically signified with a dark cloth cowl that is wrapped around their head and mouth, 
+Members of the Panopticon are typically signified with a dark cloth cowl that is wrapped around their head and mouth, with an eye embroidered into the part of the cloth that goes over the forehead.
+
+There are many ranks within The Panopticon. One of these is The Speaker, who is among other roles given to those who front the different Libraries. Their cowl has a design that shows their mouth, designating their permission to speak about the information they have gathered.
+
+Another rank is The Observer. Though there are many non-Observers who gather information for the order, Observers are those who have shown both skill and devotion, and are given important and sacred roles. An Observer rarely have their outfit differentiated, however they have 
