@@ -19,4 +19,4 @@ The Divine Executioners is a dedicated branch of followers to The Judge, whose m
 
 Members of this divine order are those who have typically gone above and beyond to prove both their devotion towards The Judge, but also have shown exceptional martial or magical skills, as hunting down immortals is not an easy task.
 
-Divine Executioners are typically recognised by their tabards that show a silver greatsword enveloped by golden flames. They also wear golden masks that hide their faces when on duty. They are a rare sight
+Divine Executioners are typically recognised by their tabards that show a silver greatsword enveloped by golden flames. They also wear golden masks that hide their faces when on duty. They are a rare sight for most folks, even in areas that have a heavy presence of The Judge worship.

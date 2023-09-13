@@ -1,0 +1,1 @@
+The Watcher is the eternal entity who watches over The Inner Planes. To many they are an enigmatic entity, because as far as history can go, they have never shown any motivation towards specific goals, only observing 
