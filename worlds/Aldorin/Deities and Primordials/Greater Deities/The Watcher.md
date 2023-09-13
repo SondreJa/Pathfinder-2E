@@ -11,4 +11,4 @@ The most important edict for followers is to gather information and observe happ
 
 Anathema to The Watcher would be to falsify information, or to change outcomes for personal gain. While it's not anathema to prevent a law from being broken in front of them, devout followers would say that their duty is simply to observe and record, not interfere or participate.
 
-## 
+## The Panoptic Order
