@@ -15,4 +15,4 @@ Followers of The Judge should do their best to uphold the law and order, seek pe
 Followers should avoid breaking the law at all costs. If something is wrong with the law, it must be changed via judicial means. Never use violence as a first solution if peaceful manners are viable. 
 
 ## The Executioners
-The Executioners is a dedicated branch of followers to The Judge, whose main purpose is to hunt down and execute those who 
+The Executioners is a dedicated branch of followers to The Judge, whose main purpose is to hunt down and execute those who seek to avoid the Cycle of Souls by becoming immortal. Immortals in this case only encompass those who seek true immortality, as someone who simply slows down their rate of ageing will eventually reach The Cycle, and what might seem like aeons to mortals might be as the blink of an eye to the ancient primordials.
