@@ -7,4 +7,6 @@ The Watcher is typically depicted as a giant hand with an eye in the centre, whi
 Despite being an ancient deity, they aren't the most popular of gods for most commoners. However those who do follow them are often information brokers, journalists, spies or others who are in the information business one way or the other.
 
 ## Edicts and Anathema
-The most important edict for followers is to gather information and observe happenings, but to never interfere on them. Should a 
+The most important edict for followers is to gather information and observe happenings, but to never interfere on them. The most devout of their followers would go so far as even should a murder occur right in front of them, they should not interfere in it. But at the same time, they would have no issues handing records of the happening over to law enforcement right after.
+
+Anathema to The Watcher would be to falsify information, or to change outcomes for personal gain.
