@@ -11,4 +11,5 @@ The most important edict for followers is to gather information and observe happ
 
 Anathema to The Watcher would be to falsify information, or to change outcomes for personal gain. While it's not anathema to prevent a law from being broken in front of them, devout followers would say that their duty is simply to observe and record, not interfere or participate.
 
-## The Panoptic Order
+## The Panopticon
+The Panopticon is a group of devout followers who are dedicated to gathering, cataloguing and distributing information. It is common for the larger cities of the world to have a Panopticon Library, a combination of library and temple to The Watcher. They have librarians with vast knowledge over what information they have stored, what is considered dangerous and classified and if they don't have something, they 
