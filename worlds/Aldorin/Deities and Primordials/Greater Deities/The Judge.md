@@ -7,4 +7,6 @@ The Judge is typically depicted in grandiose golden armour that fully covers the
 Followers of The Judge are usually those who have a deep reverence for law and order, justice, and The Cycle of Souls. Those who work in governments or especially judicial courts, are likely to be followers of The Judge, as might many who work within law enforcement.
 
 ## Edicts and Anathema
-Followers of The Judge should do their best to uphold the law and order
+Followers of The Judge should do their best to uphold the law and order, seek peaceful and legal solutions where possible, but not be afraid to fight to protect law, order and justice either. Followers should also do their best to support those who fight against immortals.
+
+Followers should avoid breaking the law at all c
