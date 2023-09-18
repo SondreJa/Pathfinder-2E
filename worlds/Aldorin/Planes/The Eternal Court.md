@@ -33,7 +33,7 @@ The Redirection Enactment was added from the singular case that was not headed b
 
 Their case was focused on souls being sent to [[Abaddon]] would destroy said soul, removing them from the Cycle of Souls, aside from the rare cases where a soul is able to turn into a Daemon, something that still contributes to the destruction of souls in the end.
 
-Though The Judge could not agree with removing Abaddon from possible destinations, should a soul be destined for Abaddon without having been petitioned by a representative from Hell or [[The Outer Rifts]], then they would be allowed a chance to convince them, and if the soul changed their mind to either of these planes then that would be the valid ruling.
+Though The Judge could not agree with removing Abaddon from possible destinations, should a soul be destined for Abaddon without having been petitioned by a representative from [[Hell]] or [[The Outer Rifts]], then they would be allowed a chance to convince them, and if the soul changed their mind to either of these planes then that would be the valid ruling.
 
 Surprisingly to some, Abaddon did not challenge this claim. Though it is uncertain why, many believe due to their nihilistic nature and undying patience for the end of all existence, they simply do not care if a soul is destroyed now or eons in the future.
 
