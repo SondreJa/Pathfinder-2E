@@ -1,0 +1,9 @@
+In Veldaria, The Benevolent Wardens serve as the primary pantheon of worship, playing a significant role in shaping the culture and values of the nation. While the worship of other deities is allowed, it is generally looked down upon and might be met with suspicion or disapproval. The Benevolent Wardens, with their emphasis on protection, growth, and prosperity, align well with the values of Veldarian society, which places importance on unity, cooperation, and the greater good.
+
+Religious practices in Veldaria are often community-oriented, with regular gatherings and ceremonies to honor the gods and seek their guidance and blessings. Temples and shrines dedicated to the various deities can be found throughout the country, with larger, more elaborate temples located in the capital city and other major population centers.
+
+The priesthood plays a central role in Veldarian society, serving not only as spiritual leaders but also as advisors to the nobility and monarchy. They are responsible for maintaining the moral and ethical standards of the kingdom and ensuring that the teachings of The Benevolent Wardens are upheld.
+
+In addition to the central pantheon, there are various religious orders and organizations dedicated to specific deities or aspects of the pantheon. For example, there might be a knightly order dedicated to Gavric, the God of War and Guardianship, focusing on training and discipline to protect the kingdom from external threats.
+
+Overall, religion in Veldaria is deeply interwoven into the fabric of society, influencing various aspects of daily life and shaping the values and beliefs of its people. While the kingdom is relatively tolerant of other faiths, the primary focus remains on the worship and reverence of The Benevolent Wardens.

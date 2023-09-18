@@ -1,0 +1,11 @@
+## The Order of the Crimson Dawn
+This small but influential group of knights and warriors is dedicated to the protection of Veldaria and its people. They are known for their strict code of honor and chivalry and have a reputation for selflessness and courage. They often serve as guardians for the royal family, or as elite soldiers in times of war. While they are respected by many, their unwavering loyalty to the Veldarian crown has put them at odds with factions that harbor anti-monarchist sentiments.
+
+## The Sapphire Circle
+This secretive organization is made up of arcane spellcasters who are dedicated to the study and mastery of elemental magic. Members of the Sapphire Circle often serve as advisors to the Veldarian court on matters of magical security and arcane research. They are also involved in the training of promising young mages and have a presence at the Veldarian Arcane Academy. Their focus is primarily on the magical defense of Veldaria and the advancement of arcane knowledge.
+
+## The Whispered Veil
+This enigmatic group consists of skilled spies, diplomats, and negotiators who work to protect and further Veldaria's interests, both domestically and internationally. They are experts at gathering intelligence and operate discreetly to ensure that Veldaria remains informed about the political machinations of its neighbors. Their methods often involve secrecy and subterfuge, and while their actions may sometimes be morally ambiguous, they are ultimately loyal to the well-being of their nation.
+
+## The Manufactorium
+This esteemed guild is composed of skilled alchemists, artificers, and inventors who seek to push the boundaries of magical and mundane technology. They work closely with the Veldarian government and military to develop new weapons, tools, and devices to improve the nation's infrastructure and defense capabilities. The guild's members also contribute to the education of young and aspiring artificers and alchemists, ensuring a steady stream of innovative thinkers for generations to come.Val

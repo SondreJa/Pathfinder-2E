@@ -1,0 +1,9 @@
+Faulpeak Town is the now ruins of the settlement that resided outside the walls of Faulpeak Castle. It was a mostly stone settlement, so many of the buildings still remain, albeit ruined and collapsed due to a lack of maintenance.
+
+Today it is a hub of two primary factions; the Necromancer and the Exiled Brigands
+
+The Necromancer is someone who has resided here for a long time, who settled in not long after the nation was annexed. With how many people were executed during the sacking of the ruler and town, it became a prime source of necromantic materials. They have built their lair under the town, with several floors that are dedicated to different forms of dedication. There are practically no one who really knows about them aside from the Exiled Brigands.
+
+The Exiled Brigands is a subsection of bandits who got exiled from the main forces. They are officially tasked with wiping out the undead in Faulpeak Town before they are allowed to return to the main force, however this is a Sisyphean task. However many of them still have a sense of loyalty towards their old comrades even though they pretty much know they will never be allowed to return.
+
+There is also an entity simply known as The White Mask that stalks the Town. Neither the necromancer or the brigands know much about the nature of them, but they are a pain to both sides. The White Mask is an entity that wears dark red clothing that covers all of them except for their face, which is covered by a featureless white mask. They carry a lute, as well as a knife and club. They tend to approach people, be they undead or not, and play a riff. If the riff is not returned in time, then they tend to go hostile. The necromancer has somewhat adapted to this by using the white mask as a testing dummy for new creations, but the brigands frequently get injured or occasionally killed by the Mask.

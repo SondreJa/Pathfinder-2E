@@ -1,0 +1,19 @@
+## Arcane
+Since magic is based around knowledge, it would lead to Arcane magic being a very science adjacent way of studying magic. By studying the sciences and observe the world around oneself, one can improve and further understand the world in order to impose one's will upon it. Using the right materials, the right runes with the right combinations would add up to arcane spells. Meaning someone who has a better understanding of the world around them would be able to cast more advanced and stronger spells. 
+
+Of course all magic comes at a cost. By using more powerful and advanced magic, you are also imposing greater change upon the world, potentially having severe and dangerous side effects to those who don't limit themselves. That is why most arcane schools would focus a lot on restrictions and limitations in order to ensure that those who study arcane magic does not extend beyond their means before they are ready for it.
+
+## Divine
+Divine magic is based on the connection between the caster and a divine being, such as a deity or a powerful celestial entity. Knowledge plays a significant role in the practice of divine magic, as casters must study religious texts, scriptures, and holy symbols to gain a deeper understanding of their chosen deity's teachings, preferences, and moral codes. The strength of a divine caster's connection to their deity depends on their devotion, faith, and adherence to these teachings.
+
+The limitations of divine magic are tied to the caster's relationship with their deity. Divine casters who stray from their deity's path or violate their teachings risk losing access to their divine powers. Furthermore, divine magic is generally restricted by the domains and spheres of influence associated with the deity, meaning that divine casters can only access spells and abilities related to their chosen divine being's areas of concern.
+
+## Primal
+Primal magic draws its power from the raw, untamed forces of nature and the elemental energies that pervade the world. Instead of relying on scientific methods or structured learning, primal magic is about intuition, instinct, and a deep, empathic connection with the natural world. Primal casters spend time in nature, learning its rhythms and secrets, and tapping into its primordial essence.
+
+The limitations of primal magic stem from its wild and unpredictable nature. Primal casters must maintain a delicate balance between controlling their powers and allowing the elemental forces to flow freely. Overreliance on primal magic can lead to dangerous, uncontrollable surges of energy, while excessive restraint might limit the caster's ability to harness the full potential of the elements. Primal casters often have to rely on their instincts to walk the fine line between these extremes.
+
+## Occult
+Occult magic delves into the mysterious, hidden aspects of the world, tapping into ancient secrets, forbidden knowledge, and the powers that lie beyond the veil of reality. Occult casters study esoteric texts, learn secret languages, and engage in rituals to unlock hidden truths and communicate with otherworldly beings. They may form pacts with extraplanar entities, gain insights from spirits, or harness the power of psychic energies to wield their magic.
+
+The limitations of occult magic are linked to the dangers of delving too deep into the unknown. Occult casters risk losing their sanity, becoming corrupted by dark powers, or falling victim to the machinations of malevolent entities. The pursuit of occult knowledge often requires personal sacrifices, and occult casters must be prepared to pay a high price for the power they seek. Additionally, the secretive nature of occult magic means that its practitioners may face distrust, persecution, or even outright hostility from those who fear the unknown.

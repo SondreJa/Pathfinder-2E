@@ -1,0 +1,1 @@
+https://cdn.discordapp.com/attachments/933812292217364510/1102316924198715503/SapientiaGlobe_Climates.gif

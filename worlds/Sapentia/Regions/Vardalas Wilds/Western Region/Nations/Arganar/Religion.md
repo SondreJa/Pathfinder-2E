@@ -1,0 +1,11 @@
+In Arganar, The Benevolent Wardens hold a unique position as the sole pantheon allowed for worship. This exclusivity shapes the religious landscape of the nation, making the influence of the pantheon even more pronounced than in Veldaria. The strict enforcement of this policy is driven by a desire to maintain unity, order, and a sense of shared purpose within the highly militarized society.
+
+The deities of The Benevolent Wardens are each revered for different reasons in Arganar, with an emphasis on those aspects that align with the nation's military focus. Gavric, the God of War and Guardianship, is particularly venerated, with many soldiers seeking his guidance and protection in battle. Similarly, Eurathor, the God of Cities and Civilization, is highly respected for his teachings on order, duty, and the importance of a well-organized society.
+
+In Arganar, the priesthood serves not only as spiritual leaders but also as key figures within the military hierarchy. They often hold ranks and positions of authority, advising commanders and contributing to strategic decisions. This integration of religious and military leadership further reinforces the importance of The Benevolent Wardens in shaping the values and direction of the nation.
+
+The worship of other deities is strictly forbidden in Arganar, and those found to be practicing or promoting other faiths may face severe consequences, including imprisonment, exile, or even execution. This intolerance for religious diversity is seen as a necessary measure to maintain the unity and strength of the nation.
+
+Despite this focus on a single pantheon, there are still various religious orders and organizations dedicated to specific aspects of The Benevolent Wardens. These groups often have a martial bent, with members training in combat and tactics to serve their chosen deity and the nation as a whole.
+
+In summary, religion in Arganar is deeply intertwined with the nation's military culture, with the worship of The Benevolent Wardens serving as a unifying force and a source of guidance and inspiration for the people. The strict enforcement of religious orthodoxy reflects the nation's emphasis on order and discipline, while the integration of religious and military leadership ensures that the values of the pantheon continue to shape the direction of Arganar.
