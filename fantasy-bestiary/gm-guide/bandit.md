@@ -33,7 +33,7 @@ abilityMods: [3, 3, 1, 0, 2, 1]
 
 abilities_top:
   - name: "Survival"
-    desc: "  +6, [[compendium/skills.md#Thievery|Thievery]] +8 Str +3, Dex +3, Con +1, Int +0, Wis +2, Cha +1 Items hatchet, sling (10 bullets), studded leather armor."
+    desc: "  +6, [[compendium/skills.md#Thievery|Thievery]] +8 Str +3, Dex +3, Con +1, Int +0, Wis +2, Cha +1"
   - name: Items
     desc: "hatchet, sling (10 bullets), studded leather armor;"
 abilities_mid:
