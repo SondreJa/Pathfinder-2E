@@ -6,3 +6,6 @@ Hard to find extra: 20gp
 
 [[spring-loaded-net-launcher-lotgb|Spring-loaded Net Launcher]]
 
+[[smoke-fan-g-g|Smoke Fan]]
+
+[[feather-token]] Ladder
