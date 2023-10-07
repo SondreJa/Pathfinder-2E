@@ -27,7 +27,7 @@ Bandit: 30/30
 Cultist: 20/20
 Guard Dog: 8/8
 
-Leader (Mage for Hire), Magda (half orc red head): 31/31
+Leader (Mage for Hire), Magda (half orc red head): 26/31
 Bodyguard: 25/25
 
 Initiative:
