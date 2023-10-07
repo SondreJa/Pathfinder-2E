@@ -19,7 +19,7 @@ monster: Mage For Hire
 monster: Bodyguard
 ```
 
-Bandit 1: 21/30
+Bandit 1: 13/30
 Bandit 2: 30/30
 Bandit 3: 23/30
 
@@ -34,8 +34,8 @@ Initiative:
 Mira: 26
 Doggo: 20
 Bandits: 19
-Tang: 17
 Bodyguard: 16
+Tang: 17
 Leader: 14
 Cultist: 8
 Hoya: 5
