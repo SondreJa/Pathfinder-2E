@@ -23,7 +23,7 @@ Bandit 1: 13/30
 Bandit 2: 30/30
 Bandit 3: 23/30
 
-Bandit: 24/30
+Bandit: 22/30
 Cultist: 20/20
 Guard Dog: 8/8
 
