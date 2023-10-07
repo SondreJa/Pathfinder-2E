@@ -21,6 +21,7 @@ monster: Bodyguard
 
 Bandit 1: 21/30
 Bandit 2: 30/30
+Bandit 3: 23/30
 
 Bandit: 30/30
 Cultist: 20/20
