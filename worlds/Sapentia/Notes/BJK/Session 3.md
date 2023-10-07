@@ -1,0 +1,1 @@
+Shit notes are gone
