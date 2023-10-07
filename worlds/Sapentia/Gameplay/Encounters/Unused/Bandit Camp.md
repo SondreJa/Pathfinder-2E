@@ -28,3 +28,6 @@ Guard Dog: 8/8
 
 Leader (Mage for Hire), Magda (half orc red head): 31/31
 Bodyguard: 25/25
+
+Initiative:
+Bandits: 19
